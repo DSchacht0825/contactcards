@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jason;Kaylyn;;;
+FN:Kaylyn Jason
+ORG:San Diego Rescue Mission
+TITLE:Associate Social Worker
+TEL;TYPE=WORK,VOICE:858-423-0337
+EMAIL;TYPE=WORK:kjason@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD

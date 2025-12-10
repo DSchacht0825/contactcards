@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rainey;Ian;;;
+FN:Ian Rainey
+ORG:San Diego Rescue Mission
+TITLE:Outreach Coordinator
+TEL;TYPE=WORK,VOICE:619-672-0200
+EMAIL;TYPE=WORK:irainey@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD

@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/vcf/*"
+  [headers.values]
+    Content-Type = "text/vcard"
+    Content-Disposition = "attachment"

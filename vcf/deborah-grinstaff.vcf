@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Grinstaff;Deborah;;;
+FN:Deborah Grinstaff
+ORG:San Diego Rescue Mission
+TITLE:Outreach Specialist
+TEL;TYPE=WORK,VOICE:858-423-0233
+EMAIL;TYPE=WORK:dgrinstaff@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
