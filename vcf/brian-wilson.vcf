@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wilson;Brian;;;
+FN:Brian Wilson
+ORG:San Diego Rescue Mission
+TITLE:VP of Programs
+TEL;TYPE=WORK,VOICE:951-334-4179
+EMAIL;TYPE=WORK:bwilson@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
