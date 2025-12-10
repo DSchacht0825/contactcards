@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Norman;Khaliah;;;
+FN:Khaliah Norman
+ORG:San Diego Rescue Mission
+TITLE:Housing Stabilizer
+TEL;TYPE=WORK,VOICE:858-423-0324
+EMAIL;TYPE=WORK:knorman@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
