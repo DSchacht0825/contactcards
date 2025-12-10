@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schacht;Daniel;;;
+FN:Daniel Schacht
+ORG:San Diego Rescue Mission
+TITLE:North County Outreach Director
+TEL;TYPE=WORK,VOICE:619-300-8337
+EMAIL;TYPE=WORK:dschacht@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
