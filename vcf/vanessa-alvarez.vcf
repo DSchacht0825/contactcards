@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Alvarez;Vanessa;;;
+FN:Vanessa Alvarez
+ORG:San Diego Rescue Mission
+TITLE:Outreach Stabilizer
+TEL;TYPE=WORK,VOICE:619-804-6780
+EMAIL;TYPE=WORK:valvarez@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
