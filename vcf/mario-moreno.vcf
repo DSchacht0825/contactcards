@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Moreno;Mario;;;
+FN:Mario Moreno
+ORG:San Diego Rescue Mission
+TITLE:Housing Navigator
+TEL;TYPE=WORK,VOICE:909-979-0955
+EMAIL;TYPE=WORK:mmoreno@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
