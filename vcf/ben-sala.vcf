@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sala;Ben;;;
+FN:Ben Sala
+ORG:San Diego Rescue Mission
+TITLE:Outreach Specialist
+TEL;TYPE=WORK,VOICE:619-384-8976
+EMAIL;TYPE=WORK:bsala@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
