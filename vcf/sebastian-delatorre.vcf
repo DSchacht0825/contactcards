@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:De La Torre;Sebastian;;;
+FN:Sebastian De La Torre
+NICKNAME:Seabass
+ORG:San Diego Rescue Mission
+TITLE:Outreach Specialist
+TEL;TYPE=WORK,VOICE:858-423-0181
+EMAIL;TYPE=WORK:sdelatorre@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD

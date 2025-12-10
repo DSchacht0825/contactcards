@@ -118,6 +118,13 @@ header .tagline {
     margin-bottom: 5px;
 }
 
+.business-card .nickname {
+    color: #718096;
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
 .business-card .job-title {
     color: #e53e3e;
     font-size: 1.1rem;

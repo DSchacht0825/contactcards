@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Barragan;Alex;;;
+FN:Alex Barragan
+ORG:San Diego Rescue Mission
+TITLE:Housing Stabilizer
+TEL;TYPE=WORK,VOICE:619-530-8014
+EMAIL;TYPE=WORK:abarragan@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
