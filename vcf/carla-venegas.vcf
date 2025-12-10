@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Venegas;Carla;;;
+FN:Carla Venegas
+ORG:San Diego Rescue Mission
+TITLE:Outreach Director
+TEL;TYPE=WORK,VOICE:619-886-6020
+EMAIL;TYPE=WORK:cvenegas@sdrescue.org
+URL:https://www.sdrescue.org
+ADR;TYPE=WORK:;;120 Elm Street;San Diego;CA;92101;USA
+END:VCARD
