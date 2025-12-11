@@ -197,6 +197,41 @@ header .tagline {
     opacity: 1;
 }
 
+/* Partner Organizations Section */
+.partner-orgs {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.partner-orgs h2 {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    opacity: 0.9;
+}
+
+.partner-btn {
+    display: inline-block;
+    padding: 16px 32px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin: 10px;
+}
+
+.partner-btn.retread {
+    background: linear-gradient(135deg, #2d5a27 0%, #1e3d1a 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(45, 90, 39, 0.4);
+}
+
+.partner-btn.retread:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(45, 90, 39, 0.5);
+}
+
 footer {
     text-align: center;
     margin-top: 60px;
